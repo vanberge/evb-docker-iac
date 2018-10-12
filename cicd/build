@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "executing the build script for the flask-demo repo"
+echo $(pwd)
+echo $(which docker)
+echo $(env)
